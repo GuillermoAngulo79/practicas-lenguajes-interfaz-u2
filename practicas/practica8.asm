@@ -8,7 +8,7 @@
 
 INCLUDE Irvine32.inc    
 
-.data                   ; Sección de declaración de variables (vacía en este script, operando con registros)
+.data                   ; Sección de declaración de variables 
 
 .code                   ; Sección de código ejecutable
 main PROC               ; Inicio del procedimiento principal del programa

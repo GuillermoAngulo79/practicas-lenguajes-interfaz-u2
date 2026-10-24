@@ -40,7 +40,7 @@ fin:
     call WriteString                ; Imprime el mensaje en consola
     call Crlf                       ; Salto de línea
 
-    exit                            ; Finaliza el programa y devuelve el control al sistema operativo
+    exit                            
 main ENDP                           ; Fin del procedimiento principal
 
 END main                            

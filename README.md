@@ -28,6 +28,3 @@
 | 14 | Captura y almacenamiento de datos numéricos | [Ver código](practicas/practica14.asm) |
 | 15 | Manipulación de archivos | [Ver código](practicas/practica15.asm) |
 
-git add README.md
-git commit -m "Agregar archivo README.md con índice de prácticas y datos generales"
-git push origin main

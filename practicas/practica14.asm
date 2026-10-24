@@ -32,7 +32,7 @@ capturar:               ; Etiqueta de punto de retorno para solicitar la entrada
 
     mov edx, OFFSET buffer 
     mov ecx, SIZEOF buffer 
-    call ReadString                 ; Lee la cadena escrita por el usuario; EAX devuelve la cantidad exacta de caracteres leídos
+    call ReadString               
 
     ;  Validaciones iniciales de longitud 
     cmp eax, 0 

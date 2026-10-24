@@ -9,7 +9,7 @@
 INCLUDE Irvine32.inc
 
 .data
-    capacidad   = 20                    ; Constante simbólica que define el límite máximo de autos permitidos
+    capacidad   = 20                    ; Constante que define el límite máximo de autos permitidos
 
     msgOp1      BYTE "1. Entra un carro", 0
     msgOp2      BYTE "2. Sale un carro", 0
